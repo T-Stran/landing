@@ -1,0 +1,30 @@
+.card-product {
+  display: flex;
+  background-color: white;
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 1px 1px 15px rgba(0 0 0 / 20%);
+  margin: 20px 0;
+  }
+
+  .card-product img {
+    height: 180px;
+    width: 180px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 15px rgba(0 0 0 / 20%);
+  }
+
+  .card-product h2 {
+    font-size: 20;
+    padding-left: 12px;
+  }
+
+  .card-product p {
+    font-size: 15px;
+    padding-left: 12px;
+  }
+
+  .card-how {
+    width: 800px;
+    margin: 0 auto
+  }

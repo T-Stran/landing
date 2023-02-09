@@ -1,0 +1,26 @@
+.card-footer {
+  display: flex;
+  margin: 0 auto;
+  background-color: #00b4d8;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  /* position: fixed;
+  bottom: 0; */
+}
+
+.card-footer a {
+  font-size: 30px;
+  padding: 0px 20px 0px 20px;
+  color: #03045e;
+  text-decoration: none;
+  position: relative;
+  margin: 0 auto;
+}
+
+.card-footer a:hover {
+  color:#08effb;
+  transform: scale(1.5);
+  transition: 1s;
+
+}
